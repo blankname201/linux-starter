@@ -1,7 +1,9 @@
+# Transparent Foods
+
 ## Legend
 Buyer
 Seller
-Unions, where they buy/sell in bulk, repackage and distribute in private channels if needed. (Private, union-protected information, only members of the Union can view).
+Unions, where they buy/sell in bulk/provide teams/knowledge, repackage and distribute in private channels if needed. (Private, union-protected information, only members of the Union can view).
 
 ## Entry point 1.
 The entry point is the Buyer.
@@ -19,22 +21,50 @@ Where do we get the product from? We have
       how does a team gets a notification for the job?
         platform.
       where do we get the team from?
-        special training.
+        special training/interested Unions
       how does a platform play into this?
         dispatching team
           team info, facebook like profile
           or do we need team info?
+        being a media for parties
+          social platform, messages, trust token
         propagating a click event
-          storing a buy event with x buyer (x info, facebook-like) and y seller (y info, facebook-like), z amount of buying fee (blockchain cooin/internal coin/us dollars/local currency/ bank cards), 
-        
+          storing a buy event with x buyer (x info, facebook-like) and y seller (y info, facebook-like), z amount of buying fee (blockchain cooin/internal coin/us dollars/local currency/ bank cards);
+          showing a buyer and seller movements of the product (tracking system)
+        money trustee between parties
+        quality assurance x100
     alternatives?
-  packaged crop in our facility
+  packaged product in our facility
+    dispatching products to end user
+      how?
+        need to solve distribution logic
+          free shipment?
+          vip shipment vs slow shipment?
+          POS? point of sale/distribution
+    quality controls, temperature, documented
+    some of the above
 
+When do we dispatch the product?
+  depends on the needs of the end user,
+    allow for scheduling, cyclical deliveries
+  depends on the lifecycle of a product,
+    storing in our facilities vs getting it to the end user ASAP
+    allowing for storage in top quality environment, for fee (target: restaurants, small businesses)
+
+How do we get money from X to Y, subtracting fees
+  The fee is taken from the original payment. Held onto it in the system. Released after the buyer receives the product/delivery manager acknowledges the delivery.
+  Blockchain?
+    ?
+    ?
+    ?
+    ? creating payment system
+    ? need blockchain expert (call Roma)
+    ? why the blockchain anyway ???
+    Phase II
+  AI?
+    automatization
+    promotion coupons
   
-  
-What where when how how 
-
-
 ### Story 2.
 
 
@@ -44,3 +74,76 @@ The entry point is the Seller.
 
 ### Story 1.
 He clicks button to call our manager to consult on his farm.
+  The meeting is scheduled
+    On the meeting, the product and the environment is evaluated
+    Next meeting, there has to be an offer to the seller
+    Next, the product is ours, the Seller got the payment already
+    Otherwise, we take it for distribution and see what we can do.
+  He decides to set everything up by himself
+    Creates a pipeline by himself
+      organizes distribution from the system (Distribution Union)
+      contacts buyers
+      organizes quality control with our products (app and metric devices)
+
+
+## Use case in Cambodia
+Potential for having investment
+Potential for having good quality products for cheap price for our distribution and test of the system.
+Creating a small self-sustaining module, growing it farm by farm. All digitalized. Every notification and event is stored in the system.
+Grab-like interface and platform-minded orientation. 
+
+## Use case in Singapore
+System refinement, integration in a big, competitive market.
+Getting help from the government.
+
+## Use case in China
+Total integration of a system in the market.
+
+
+## Traceability 101 Video notes
+IFT - food protocolling
+
+### Why traceability
+Use Cases
+  food safety, recall management
+  sustainability
+  fraud
+  legality
+
+### The Problem
+
+1up1down -> E2E transition
+1up1down
+  scalability problem
+  parts work independently
+  no process improvement propagation to the system
+E2E
+  collecting
+    KDEs (key data elements) TODO1: fill this up with transparent foods examples
+      catch areas
+      parties involved
+      temperature
+      humidity
+      product facebook
+      product needs to have an active social life to be sexy
+    CTEs (critical tracking events)
+      transportation
+      transformation
+      depletion
+      platform
+        identify (names involved, assign names)
+        capture (byte to eye)
+        share (network)
+
+KDE/CTE Matrix
+  Harvest
+    who what where when why
+  Transport
+    who what where when why
+  Process
+    who what where when why
+  Transport
+    who what where when why
+
+
+Virus example of traceability importance
