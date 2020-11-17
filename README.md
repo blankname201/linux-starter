@@ -9,7 +9,7 @@ Unions, where they buy/sell in bulk/provide teams/knowledge, repackage and distr
 The entry point is the Buyer.
 
 ### Story 1.
-He clicks button to buy his special package of fresh fruits delivered to his home daily.
+He clicks button to buy his special VIP package of fresh fruits delivered to his home daily.
 
 Why he buys the product? Because he believes it's good for his and his family's health/he wants to support the idea/we offered special package/because our fruits have appealing package (with qr code with nutrients and a website link to check the conditions of soil, temperature of air, etc of a Seller. Q01: how do we check the condition of soil, air temperature of a Seller?).
 
@@ -24,16 +24,16 @@ Where do we get the product from? We have
         special training/interested Unions
       how does a platform play into this?
         dispatching team
-          team info, facebook like profile
-          or do we need team info?
+          team info, facebook like profile (Do we need it?)
         being a media for parties
-          social platform, messages, trust token
+          social platform, messages, holding a trust token
         propagating a click event
           storing a buy event with x buyer (x info, facebook-like) and y seller (y info, facebook-like), z amount of buying fee (blockchain cooin/internal coin/us dollars/local currency/ bank cards);
           showing a buyer and seller movements of the product (tracking system)
-        money trustee between parties
-        quality assurance x100
+        money trustee between parties (in the name we trust)
+        quality assurance x100 (government backed, scientific facilities backed)
     alternatives?
+      pick up by Buyer from POD (point of distribution) facility (cofee, food available?)
   packaged product in our facility
     dispatching products to end user
       how?
@@ -42,7 +42,7 @@ Where do we get the product from? We have
           vip shipment vs slow shipment?
           POS? point of sale/distribution
     quality controls, temperature, documented
-    some of the above
+    some of the [unharvested crop] points
 
 When do we dispatch the product?
   depends on the needs of the end user,
@@ -117,6 +117,10 @@ Use Cases
   scalability problem
   parts work independently
   no process improvement propagation to the system
+  small parties big parties (inequality)
+  in need of digitalization
+          of efficient protocol
+          of distributed system, easily-accessible anywhere in the world
 E2E
   collecting
     KDEs (key data elements) TODO1: fill this up with transparent foods examples
@@ -147,3 +151,10 @@ KDE/CTE Matrix
 
 
 Virus example of traceability importance
+  South Korean people beat the virus faster than anyone because they traced people.
+  Imagine we have the system where we can trace food diceases.
+
+## Where to put
+AI
+IoT
+Blockchain
